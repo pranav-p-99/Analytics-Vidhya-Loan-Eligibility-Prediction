@@ -1,1 +1,1 @@
-# Loan-Eligibility-Prediction
+# Analytics-Vidhya-Loan-Eligibility-Prediction
